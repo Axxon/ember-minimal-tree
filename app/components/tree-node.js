@@ -15,11 +15,10 @@ export default Ember.Component.extend({
       var newNode = prompt('Please enter your new name category');
       this.sendAction('childToAdd', newNode, node);
     },
-    removeChild: function(node) {
-      node.destroyRecord();
-      return false;
+    removeNode: function(node) {
+      this.sendAction('nodeToRemove', node);
     },
-    addChild0: function(newNode, node){
+    addChild0: function(newNode, node) {
       this.sendAction('childToAdd', newNode, node);
     }
   }

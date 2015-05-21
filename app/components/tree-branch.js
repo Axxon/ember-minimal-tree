@@ -9,8 +9,11 @@ export default Ember.Component.extend({
     });
   }.property("node"),
   actions:{
-    addChild1: function(newNodeName, parentNode) {
+    addChild: function(newNodeName, parentNode) {
       this.sendAction('childToAdd', newNodeName, parentNode);
+    },
+    removeNode: function(node) {
+      this.sendAction('nodeToRemove', node);
     }
   }
 });

@@ -1,5 +1,5 @@
 {{#each node in node}}
     {{#if node.isFirstLevel}}
-        {{tree-node node=node childToAdd="addChild1"}}
+        {{tree-node node=node childToAdd="addChild" nodeToRemove="removeNode"}}
     {{/if}}
 {{/each}}

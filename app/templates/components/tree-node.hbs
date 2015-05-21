@@ -7,10 +7,14 @@
 </span>
 <a class="text" {{action 'didClick'}}>{{node.text}}</a>
 <a class="text add-child" {{action 'addChild' node}}>&oplus;</a>
-<a class="text remove-child" {{action 'removeChild' node}}>&minus;</a>
+<a class="text remove-node" {{action 'removeNode' node}}>&minus;</a>
 
 {{#if isExpanded}}
     {{#each child in node.children}}
-        {{tree-node node=child childToAdd="addChild0"}}
+        {{! if you try with childToAdd="addChild" the tree-node component addChild
+        function loops two times for one action, why?
+        And why it's work well with removeNode function ??
+        }}
+        {{tree-node node=child childToAdd="addChild0" nodeToRemove="removeNode"}}
     {{/each}}
 {{/if}}

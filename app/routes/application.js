@@ -5,12 +5,15 @@ export default Ember.Route.extend({
     return this.store.findAll('category');
   },
   actions: {
-    addChild2: function (newNodeName, parentNode) {
+    addChild: function(newNodeName, parentNode) {
       parentNode.get('children').pushObject(
         this.store.createRecord('category', {
           text: newNodeName
         })
       )
+    },
+    removeNode: function(node) {
+      node.destroyRecord();
     }
   }
 });
