@@ -24,7 +24,7 @@
     <favorites_list name="menu-test2" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5193452">
+    <splitter split-orientation="horizontal" split-proportion="0.5037202">
       <split-first>
         <leaf>
           <file leaf-file-name="category.js" pinned="false" current-in-tab="false">
@@ -40,13 +40,23 @@
           <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/README.md">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.7796258" vertical-offset="0" max-vertical-offset="481">
-                  <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+                <state vertical-scroll-proportion="0.6860707" vertical-offset="0" max-vertical-offset="481">
+                  <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="57" />
                   <folding />
                 </state>
               </provider>
               <provider editor-type-id="MarkdownPreviewEditor">
                 <state />
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="LICENCE.txt" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/LICENCE.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+                  <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+                  <folding />
+                </state>
               </provider>
             </entry>
           </file>
@@ -78,7 +88,7 @@
         </leaf>
       </split-first>
       <split-second>
-        <splitter split-orientation="vertical" split-proportion="0.45222074">
+        <splitter split-orientation="vertical" split-proportion="0.7836364">
           <split-first>
             <splitter split-orientation="vertical" split-proportion="0.3690476">
               <split-first>
@@ -96,7 +106,7 @@
                   <file leaf-file-name="application.hbs" pinned="false" current-in-tab="true">
                     <entry file="file://$PROJECT_DIR$/app/templates/application.hbs">
                       <provider selected="true" editor-type-id="text-editor">
-                        <state vertical-scroll-proportion="0.7692308" vertical-offset="0" max-vertical-offset="120">
+                        <state vertical-scroll-proportion="0.28037384" vertical-offset="0" max-vertical-offset="120">
                           <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
                           <folding />
                         </state>
@@ -110,8 +120,8 @@
                   <file leaf-file-name="tree-branch.hbs" pinned="false" current-in-tab="true">
                     <entry file="file://$PROJECT_DIR$/app/templates/components/tree-branch.hbs">
                       <provider selected="true" editor-type-id="text-editor">
-                        <state vertical-scroll-proportion="0.30612245" vertical-offset="0" max-vertical-offset="150">
-                          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+                        <state vertical-scroll-proportion="0.28169015" vertical-offset="0" max-vertical-offset="213">
+                          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
                           <folding />
                         </state>
                       </provider>
@@ -146,7 +156,7 @@
               <file leaf-file-name="tree-node.hbs" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/app/templates/components/tree-node.hbs">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state vertical-scroll-proportion="0.6103896" vertical-offset="144" max-vertical-offset="375">
+                    <state vertical-scroll-proportion="3.2083333" vertical-offset="131" max-vertical-offset="375">
                       <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
                       <folding />
                     </state>
@@ -162,11 +172,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/components/tree-branch.js" />
         <option value="$PROJECT_DIR$/app/templates/components/tree-branch.hbs" />
         <option value="$PROJECT_DIR$/app/templates/application.hbs" />
         <option value="$PROJECT_DIR$/app/routes/application.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/LICENCE.txt" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -290,7 +300,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="27" width="1602" height="874" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25975773" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -298,7 +308,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13735558" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13735558" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -334,28 +344,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/templates/application.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7692308" vertical-offset="0" max-vertical-offset="120">
-          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/components/tree-node.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74311924" vertical-offset="123" max-vertical-offset="465">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-          <folding>
-            <element signature="e#171#219#0" expanded="true" />
-            <element signature="e#246#305#0" expanded="true" />
-            <element signature="e#336#462#0" expanded="true" />
-            <element signature="e#495#547#0" expanded="true" />
-            <element signature="e#588#647#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/routes/application.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="49" max-vertical-offset="420">
@@ -390,10 +378,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LICENCE.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/components/tree-branch.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28169015" vertical-offset="0" max-vertical-offset="213">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7796258" vertical-offset="0" max-vertical-offset="481">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.6860707" vertical-offset="0" max-vertical-offset="481">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="57" />
           <folding />
         </state>
       </provider>

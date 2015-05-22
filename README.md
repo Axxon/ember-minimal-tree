@@ -20,6 +20,6 @@ developer help me to improve this code, so please fork it and pull request !
 
 - validate logic on recursive component usage of sendAction method use case (@see
   comment on `tree-node.hbs`).
-- transform the code into a real independent component.
+- transform this code into a add-on (wip).
 - create npm install repo.
 - I don't see too faraway for this project it's a study repository.
