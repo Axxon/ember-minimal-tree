@@ -24,7 +24,7 @@ developer help me to improve this code, so please fork it and pull request !
 - create npm install repo.
 - I don't see too faraway for this project it's a study repository.
 
-# Documentation (base work)
+## Documentation (base work)
 
 - [How to Implement a Tree in Ember.js by Billy Billing](http://dev.billysbilling.com/blog/How-to-implement-a-tree-in-Ember-js)
 - [Using Recursive Components in Ember.js](https://robots.thoughtbot.com/using-recursive-components-in-emberjs)
