@@ -10,9 +10,12 @@ export default Ember.Route.extend({
         this.store.createRecord('category', {
           text: newNodeName
         })
-      )
+      );
     },
     removeNode: function(node) {
+      node.get('children').canonicalState.forEach(function(item) {
+        item.destroyRecord();
+      });
       node.destroyRecord();
     }
   }
