@@ -20,7 +20,7 @@ developer help me to improve this code, so please fork it and pull request !
 
 - validate logic on recursive component usage of sendAction method use case (@see
   comment on `tree-node.hbs`).
-- transform this code into a add-on (wip).
+- transform this code into a add-on (wip [here](https://github.com/Axxon/ember-cli-minimal-tree) use addon_integration branch).
 - create npm install repo.
 - I don't see too faraway for this project it's a study repository.
 
