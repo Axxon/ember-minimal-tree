@@ -1,9 +1,14 @@
-# Introduction
+# Warning
+
+This repo have been turning into a addon, so please use [that repo](https://github.com/Axxon/ember-cli-minimal-tree) instead.
+
+
+## Introduction
 
 The goal of this project is to create a front user menu tree where user can adds and
 removes categories on first level or in subdirectories.
 
-# Why
+## Why
 
 I tried first some complete project like: 
 [ember-cli-jstree](https://github.com/ritesh83/ember-cli-jstree), 
@@ -16,13 +21,10 @@ i really need that functionality for a project).
 So i publish this short piece of code in MIT because i need that you, enthusiastic
 developer help me to improve this code, so please fork it and pull request !
 
-# @todo
+## @todo
 
 - validate logic on recursive component usage of sendAction method use case (@see
   comment on `tree-node.hbs`).
-- transform this code into a add-on (wip [here](https://github.com/Axxon/ember-cli-minimal-tree) use addon_integration branch).
-- create npm install repo.
-- I don't see too faraway for this project it's a study repository.
 
 ## Documentation (base work)
 
